@@ -1,0 +1,148 @@
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+}
+
+.page-title {
+  color: #17b917;
+  font-weight: bold;
+}
+
+.logo-text {
+  color: #ff7f00;
+}
+
+.logo-text:hover,
+.logo-text:focus {
+  color: #ff7f00;
+}
+
+body {
+  background: url(../img/bg-pattern3.gif);
+  color: #000;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 1.65rem;
+  line-height: 1.6;
+}
+
+header {
+  border-top: 1rem solid #FF7F00;
+  color: #FF7F00;
+  font-size: 6rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  padding: 2rem;
+}
+
+header span {
+  color: #23D423;
+}
+
+nav select {
+  display: none;
+  margin-bottom: 1rem;
+  padding: .5rem;
+  width: 100%;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav a {
+  background: #FF7F00;
+  color: #fff;
+  display: block;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+footer {
+  background: url(../img/varosi-kep-lablec.jpg) no-repeat;
+  border-top: 1rem solid #23D423;
+  color: #333;
+  margin-top: 3rem;
+  min-height: 300px;
+  padding: 2rem 0;
+  text-align: center;
+}
+
+footer p {
+  background: #eee;
+  background: rgba(255, 255, 255, .8);
+  font-weight: bold;
+}
+
+.warning {
+  color: #1BA71B;
+  font-weight: bold;
+}
+
+.main-container {
+  background: #eee;
+  background: rgba(255,255,255,0.7);
+  min-height: 505px;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+.logo {
+  height: auto;
+  width: 22rem;
+}
+
+.city-pic {
+  margin-bottom: 1rem;
+}
+
+.miert {
+  border-bottom: .66rem solid #eee;
+  color: #c96707;
+  margin-bottom: 1rem;
+}
+
+.miert-cimsor {
+  color: slategrey;
+  letter-spacing: .25rem;
+}
+
+.miert-cimsor img {
+  height: auto;
+  margin-right: 1rem;
+  position: relative;
+  width: 3.5rem;
+}
+
+@media (max-width: 768px) {
+  nav ul     { 
+    display: none;
+  }
+  
+  nav select { 
+    display: inline-block;
+  }
+}
+
+@media (max-width: 480px) {
+  header {
+    font-size: 3rem;
+    margin-bottom: .5rem;
+    padding: 1rem;
+  }
+}
+
+.img-bottom {
+  margin-bottom: 1rem;
+}
+
+.img-middle {
+  margin: 1rem 0;
+}
+
+.warn-msg {
+  color: #900;
+}
