@@ -21,7 +21,7 @@
           <ul>
             <li>A vezetésre nem kell hónapokat várni!</li>
             <li>
-              <p><img id="logo_img" title="eduKRESZ" src="http://edukresz.hu/wp-content/uploads/fekete_kek_259_50_keret.png" alt="eduKRESZ" style="max-height: 50px;"></p>
+              <p><img id="logo_img" title="eduKRESZ" src="img/fekete_kek_259_50_keret.png" alt="eduKRESZ" style="max-height: 50px;"></p>
               <p>KRESZ ELMÉLET otthon tanulással is lehetséges (interneten e-learninggel ), szabad időbeosztással, tehát a nap bármely időpontjában, elvégezhető akár 1 nap alatt is.</p>
             </li>
             <?php //<li style="border: 1px dashed #090;"><a href="/tevekenysegi_mutatoszamok.php">jók az eredményeink! itt megnézhető, klikk</a></li> ?>
