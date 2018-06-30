@@ -146,3 +146,26 @@ img {
 .warn-msg {
   color: #900;
 }
+
+.cookie-consent {
+  background: #666;
+  color: #fff;
+  padding: 1rem;
+}
+
+.cookie-consent-ok {
+  background: yellow;
+  border-radius: 4px;
+  color: #666;
+  cursor: pointer;
+  display: inline-block;
+  padding: 6px;
+  text-decoration: none;
+}
+
+.privacy-policy:link,
+.privacy-policy:visited,
+.privacy-policy:hover,
+.privacy-policy:active {
+  color: lightgreen;
+}

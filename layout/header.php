@@ -7,10 +7,10 @@
 <html lang="hu">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#ff7f00">
     <title>Autósiskola | Jogosítvány | jogsi | Budapest Buda Táltos autós-motoros iskola</title>
-    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700&subset=latin,latin-ext' rel='stylesheet' type='text/css' crossorigin="anonymous">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/taltos.css">
     <script>
@@ -24,6 +24,9 @@
     </script>
   </head>
   <body id="top">
+    <div class="cookie-consent">
+      Az oldal üzemeltetője süti fájlokat (cookie) használ a GDPR rendelet szabályainak megfelelően, mely fájlok a látogató számítógépén tárolódnak. Hozzájárulok a süti fájlok használatához és elfogadom az oldal üzemeltetőjének <a href="adatvedelem.php" class="privacy-policy" target="_blank" rel="noopener">Adatvédelmi Tájékoztatóját.</a> <a class="cookie-consent-ok">Rendben</a>
+    </div>
     <header class="text-center">
       <p><a href="/" class="logo-text">&bdquo;Táltos Autósiskola&rdquo;</a></p>
     </header>
