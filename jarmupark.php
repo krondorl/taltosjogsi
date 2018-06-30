@@ -10,10 +10,11 @@
         <ul>
           <li>Peugeot 407D</li>
           <li>Mercedes 190D</li>
-          <li>Opel Astra 1.4</li>
+          <li>Renault Megane 1.5D</li>
           <li>Chevrolet Aveo</li>
           <li>Suzuki Swift</li>
           <li>Renault Clio Diesel</li>
+          <li>VW Golf</li>
         </ul>
       </div>
       <div class="col-xs-12 col-sm-6">

@@ -14,9 +14,8 @@
           <tr><th>év</th><th>hónap</th><th colspan="2">nap</th><th>leírás</th></tr>
         </thead>
         <tbody>
-          <tr><td>2018</td><td>június</td><td>12</td><td>kedd-péntek, majd kedd-csütörtök</td><td> 17h-tól 20:30-ig</td></tr>
-		  <tr><td>2018</td><td>július</td><td>17</td><td>kedd-péntek, majd kedd-csütörtök</td><td> 17h-tól 20:30-ig</td></tr>
-		  <tr><td>2018</td><td>augusztus</td><td>7</td><td>kedd-péntek, majd kedd-csütörtök</td><td> 17h-tól 20:30-ig</td></tr>
+          <tr><td>2018</td><td>július</td><td>17</td><td>kedd-péntek, majd kedd-csütörtök</td><td> 17h-tól 20:30-ig</td></tr>
+          <tr><td>2018</td><td>augusztus</td><td>7</td><td>kedd-péntek, majd kedd-csütörtök</td><td> 17h-tól 20:30-ig</td></tr>
         </tbody>
       </table>
     </div>
