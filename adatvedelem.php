@@ -2071,7 +2071,7 @@ hogy 24 &#243;r&#225;n bel&#252;l jelentse    <strong>Burucs Andr&#225;s</strong
             </td>
             <td width="354">
                 <p align="left">
-                    1113 Budapest, Tardoskedd utca 7.
+                    1118 Budapest, Alsóhegy u. 48.
                 </p>
             </td>
         </tr>
@@ -2108,8 +2108,8 @@ hogy 24 &#243;r&#225;n bel&#252;l jelentse    <strong>Burucs Andr&#225;s</strong
     Az adatokhoz csak a T&#225;rsas&#225;g munkat&#225;rsai, illetve az
     Alv&#225;llalkoz&#243; munkat&#225;rsak f&#233;rhetnek hozz&#225;, de
     mindannyian felel&#337;ss&#233;ggel tartoznak az adatok biztons&#225;gos
-    kezel&#233;s&#233;&#233;rt. A gyakorlati oktat&#225;s alatt a vezet&#233;si
-    kartonokra felvezetett adatok a gyakorlati oktat&#225;s ideje alatt az
+    kezel&#233;s&#233;&#233;rt. A elméleti oktat&#225;s alatt a tanulmányi
+    naplóra felvezetett adatok a elméleti oktat&#225;s ideje alatt az
     alv&#225;llalkoz&#243; meg&#337;rz&#233;s&#233;ben vannak, majd a
     T&#225;rsas&#225;g sz&#233;khely&#233;n ker&#252;lnek pap&#237;r
     form&#225;ban t&#225;rol&#225;sra. Az adatokhoz csak a T&#225;rsas&#225;g
@@ -2119,7 +2119,7 @@ hogy 24 &#243;r&#225;n bel&#252;l jelentse    <strong>Burucs Andr&#225;s</strong
 </p>
 <p>
     A tev&#233;kenys&#233;g megnevez&#233;se: irodavezet&#233;s,
-    g&#233;pj&#225;rm&#369;vezet&#337; oktat&#225;s.
+    elméleti oktatás.
 </p>
 <p>
     Az adatkezel&#233;s c&#233;lja: a szerz&#337;d&#233;ses
@@ -2141,6 +2141,7 @@ hogy 24 &#243;r&#225;n bel&#252;l jelentse    <strong>Burucs Andr&#225;s</strong
     teljes&#237;t&#233;se, illetve jogszab&#225;lyon alapul&#243;
     adatkezel&#233;s.
 </p>
+<?php /*
 <p align="left">
     <u>Alv&#225;llalkoz&#243; oktat&#243;:</u>
 </p>
@@ -2674,6 +2675,7 @@ hogy 24 &#243;r&#225;n bel&#252;l jelentse    <strong>Burucs Andr&#225;s</strong
         </tr>
     </tbody>
 </table>
+*/ ?>
 <p>
     A megadott szem&#233;lyes adatok a pap&#237;r alap&#250;
     sz&#225;ml&#225;kra ker&#252;lnek felvezet&#233;sre, majd a
