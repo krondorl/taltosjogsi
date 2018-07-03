@@ -10,7 +10,7 @@
 <li>	10.000 Ft adminisztrációs díj befizetése az autósiskola pénztárába,</li>
 <li>	10.000 Ft vizsgafelkészítő és gyakorló e-Titan számítógépes e-learning otthontanulás program befizetése (az autósiskola pénztárába befizetve). A program 45 nap / 24 órában működik, </li>
 <li>	4600 Ft KRESZ vizsgadíj befizetése az autósiskola pénztárába,</li>
-<li>	25.000 Ft/5 tanóra, azaz öt gyakorlati forgalmi vezetési óra díj befizetése a sikeres KRESZ vizsga után az autósiskola pénztárába, </li>
+<li>	27.500 Ft/5 tanóra, azaz öt gyakorlati forgalmi vezetési óra díj befizetése a sikeres KRESZ vizsga után az autósiskola pénztárába, </li>
 <li>	11.000 Ft forgalmi vizsgadíj befizetése a Közlekedési Hatóságnál,</li>
 <li>	Beiskolázáshoz való megfelelés és a Tanulmányi szerződés kitöltése, aláírása.</li>
 </ol>

@@ -12,17 +12,17 @@
           <strong>Elmélet</strong><br>
           25.000.- <br>
           7 alkalom, 28 órában. Hagyományos (tantermi), vagy e-learning otthoni oktatási formában.
-          AJÁNDÉK: kresz- és elsősegély tansegédlet. Ez az ár 2018. március 5-től.
+          AJÁNDÉK: kresz- és elsősegély tansegédlet. Ez az ár 2018. július 4-től.
         </div>
         <div class="col-xs-12 col-sm-6">
           <strong>Gyakorlat</strong> <br>
-          150.000.- <br>
+          165.000.- <br>
 
           Három részletben fizethető a 30 óra kötelező vezetés.
           Heti  min. 3 alkalom (akár alkalmanként 2-3 tanóra) vezetés hétköznap.
           Így - nagyon gyorsan - akár 4-5 hét alatt levezethető a kötelező 30 óra (580 km teljesíteni kell)!
           Hétvégi oktatás kérhető megbeszélés szerint.
-          Az alap és pótórák egyaránt 5.000 Ft-ba kerülnek, ez az ár 2017. december 4-től érvényes.
+          Az alap és pótórák egyaránt 5.500 Ft-ba kerülnek, ez az ár 2018. július 4-től érvényes.
         </div>
       </div>             
     

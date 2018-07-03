@@ -6,8 +6,8 @@
       <div class="row">
         <div class="col-md-6">
           <h3>Ajánlatunk: <span style="color: #00a;">"Táltos-klasszik"</span></h3>
-          <h4>2018. március 5-től a B kategóriás tanfolyamokra!</h4>
-          <p>A tanfolyam díja 145.000 Ft (visszavonásig érvényes)<br>
+          <h4>2018. július 4-től a B kategóriás tanfolyamokra!</h4>
+          <p>A tanfolyam díja 160.000 Ft (visszavonásig érvényes)<br>
           4 részletben, kamatmentesen fizethető.<br>Kamat, THM: 0% / KAMATMENTES</p>
         </div>
         <div class="col-md-6">
@@ -39,7 +39,7 @@
               2. részlet:
             </td>
             <td>
-              40.000 Ft
+              45.000 Ft
             </td>
             <td>
               (a gyakorlati vezetés megkezdése előtt)
@@ -50,7 +50,7 @@
               3. részlet:
             </td>
             <td>
-              40.000 Ft
+              45.000 Ft
             </td>
             <td>
               (a 11. gyakorlati óra megkezdése előtt)
@@ -61,7 +61,7 @@
               4. részlet:
             </td>
             <td>
-              40.000 Ft
+              45.000 Ft
             </td>
             <td>
               (a 21. gyakorlati óra megkezdése előtt)
@@ -71,7 +71,7 @@
         </tbody>
       </table>
   
-	  <p><span style="color: #0a0; font-size: 20px;">Másik autósiskolától érkező tanulók részére 10.000 Ft a regisztrációs díjat kell fizetni, valamint az alap és pótóra egyaránt 4.000 Ft / tanóra kerül!</span><br>
+	  <p><span style="color: #0a0; font-size: 20px;">Másik autósiskolától érkező tanulók részére 10.000 Ft a regisztrációs díjat kell fizetni, valamint az alap és pótóra egyaránt 4.500 Ft / tanóra kerül!</span><br>
 	  
       <h3>Autósiskolánk kategóriás árai és a vizsgára bocsátás feltételei</h3>
 
@@ -98,7 +98,7 @@
           25.000.-
           </td>
           <td>
-          4.000.- / ó
+          4.500.- / ó
           </td>
           <td>
           30 ó
@@ -112,7 +112,7 @@
           25.000.-
           </td>
           <td>
-          4.000.- / ó
+          4.500.- / ó
           </td>
           <td>
           30 ó
@@ -126,7 +126,7 @@
           25.000.-
           </td>
           <td>
-          5.000.- / ó
+          5.500.- / ó
           </td>
           <td>
           30 ó

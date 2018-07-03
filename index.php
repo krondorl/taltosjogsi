@@ -41,7 +41,7 @@
 
     <div class="warning">
       <p>"Táltos Klasszik", <a href="/arak.php">az ajánlatról bővebben...</a></p>
-      <p>Más iskolából érkező tanulók részére adminisztrációs díj 10.000 Ft és a gyakorlati oktatás díja pedig (alap és pótóra) 4.000 Ft / tanóra.</p>
+      <p>Más iskolából érkező tanulók részére adminisztrációs díj 10.000 Ft és a gyakorlati oktatás díja pedig (alap és pótóra) 4.500 Ft / tanóra.</p>
       <p>Telefonon elérhetőek vagyunk a 70-776-3881 és 20-447-8888 számokon. Burucs András iskolavezető</p>
     </div>
 
