@@ -15,6 +15,7 @@
         </thead>
         <tbody>
           <tr><td>2018</td><td>augusztus</td><td>7</td><td>kedd-péntek, majd kedd-csütörtök</td><td> 17h-tól 20:30-ig</td></tr>
+          <tr><td>2018</td><td>szeptember</td><td>11</td><td>kedd-péntek, majd kedd-csütörtök</td><td> 17h-tól 20:30-ig</td></tr>
         </tbody>
       </table>
     </div>

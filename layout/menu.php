@@ -3,7 +3,6 @@
     <ul>
       <li><a href="/">Ismertető</a></li>
       <li><a href="/arak.php">Árak</a></li>
-      <li><a href="/vip.php">VIP</a></li>
       <li><a href="/idopontok.php">Időpontok</a></li>
       <li><a href="/jarmupark.php">Járműpark</a></li>
       <li><a href="/jogsisoknak.php">Jogsisoknak</a></li>
@@ -17,7 +16,6 @@
       <option value="" selected="selected">Menü</option>
       <option value="/">Ismertető</option>
       <option value="/arak.php">Árak</option>
-      <option value="/vip.php">VIP</option>
       <option value="/idopontok.php">Időpontok</option>
       <option value="/jarmupark.php">Járműpark</option>
       <option value="/jogsisoknak.php">Jogsisoknak</option>
